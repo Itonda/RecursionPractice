@@ -14,4 +14,3 @@
         System.out.println("The sum of the array elements is: " + outputResult);   
     }
 }
-
